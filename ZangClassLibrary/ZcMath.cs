@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ZangClassLibrary
 {
-    public class Class1
+    public class ZcMath
     {
+        public int pow2(int digit)
+        {
+            return digit * digit;
+        }
     }
 }
